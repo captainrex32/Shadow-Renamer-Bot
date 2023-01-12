@@ -11,7 +11,7 @@ and Auto detection !!
 Use [Rename Robot](https://t.me/ShadowRenamerV2Bot) 
 
 #### The Simple Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MasterShad0w/Shadow-Renamer-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aakskkg/Shadow-Renamer-Bot)
 
 #### Hard Way (VPS)
 * This is just a demo of commands to use
